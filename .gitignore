@@ -1,0 +1,5 @@
+# JetBrains IDEA papkasi
+.idea/
+
+# Jupyter notebook backup papkasi
+.ipynb_checkpoints/
