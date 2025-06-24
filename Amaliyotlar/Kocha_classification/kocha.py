@@ -14,7 +14,7 @@ else:
 
 
 st.title('Ko\'cha tasvirlarini klassifikatsiya qilish')
-st.write('#mashinalar velosiped mototsikl odam va yo\'l belgilarini taniydi')
+# st.write('#mashinalar velosiped mototsikl odam va yo\'l belgilarini taniydi')
 
 file=st.file_uploader('Rasm yuklash', type=['png', 'jpeg', 'gif', 'jpg'])
 if file:
