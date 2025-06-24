@@ -1,0 +1,5 @@
+fastai==2.8.1
+plotly==6.1.0
+torch
+Pillow
+streamlit
