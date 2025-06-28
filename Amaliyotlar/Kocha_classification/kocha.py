@@ -22,7 +22,7 @@ if file:
     # PIL convert
     img=PILImage.create(file)
     # model
-    model=load_learner('kocha_model.pkl')
+    model=load_learner('Amaliyotlar/Kocha_classification/kocha_model.pkl')
 
     # prediction
     pred,pred_id,probs=model.predict(img)
